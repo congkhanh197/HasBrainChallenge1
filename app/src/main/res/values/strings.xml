@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HasBrain Challenge 1</string>
+    <string name="large_text">
+              "     Age of Extinction diễn ra khoảng bốn năm sau khi Dark of the Moon kết thúc. Trận chiến giữa hai phe Autobot và Decepticon trong tập phim thứ ba đã phá hủy thành phố Chicago, đồng thời khiến toàn bộ thế giới biết tới sự tồn tại của các robot biến hình đến từ hành tinh khác. Giờ chính phủ Hoa Kỳ không còn coi các Autobot là đồng minh nữa và quy kết các Transformer là một nguy cơ cần phải bị loại bỏ. Một biệt đội được CIA thành lập với mục đích tiêu diệt các Autobot còn sống sót với sự hỗ trợ từ Lockdown, tên robot biến hình chuyên đi săn lùng đồng loại. \n"
+              "     Cùng lúc đó, Cade Yeager (Mark Wahlberg), một người thợ cơ khí đam mê chế tạo máy móc tại Texas tình cờ mua rẻ được một chiếc xe tải cũ nát. Khi tiến hành sửa chữa chiếc xe, anh phát hiện ra đó là ẩn thân của Optimus Prime, lãnh đạo của phe Autobot hiện phải chạy trốn quân đội chính phủ. Giúp đỡ Optimus Prime trú ẩn và phục hồi, Cade không biết rằng những hành động đó sẽ khiến gia đình anh bị đe dọa và cuốn vào một âm mưu liên quan tới sự tồn vong của cả nhân loại. \n"
+              "     Mở đầu Transformers: Age of Extinction là một trường đoạn khá hoành tráng và đầy hứa hẹn, đặt ra một giả thuyết mới về sự diệt vong của khủng long hàng chục triệu năm về trước, kèm theo những nhân vật đầy bí ẩn mới. Ngay sau đó, bối cảnh trở lại thời hiện đại, nối tiếp bởi một cuộc săn lùng Autobot do biệt đội Mộ địa phong trực thuộc CIA thực hiện, hé lộ về liên minh mới giữa con người và Lockdown, gã thợ săn Transformer đầy bí ẩn. Đối với những Autobot đang cư trú tại Trái Đất, việc bị truy sát đến tận cùng khiến họ phải đối mặt với sự diệt vong cận kề. Ngay cả Optimus Prime, người chiến binh vĩ đại từng nhiều lần đấu tranh cho cả loài người, cũng phải chịu số phận của một kẻ đào tẩu. Nhìn chung, đạo diễn Michael Bay tạo ra được phần mở đầu khá hấp dẫn cho bộ phim với một không khí khá căng thẳng và bí ẩn. \n"
+              "     Bên cạnh đó, các nhân vật mới cũng lần lượt được giới thiệu đến khán giả. Lúc này, phim mới bắt đầu đi vào mạch truyện chính với những sự kiện diễn ra liên tục không ngừng nghỉ. Giờ đây xung đột chính không còn là giữa hai phe Autobot và Decepticon nữa, mà là giữa chính con người với con người và Autobot. Có thể thấy vai trò của con người trong tập phim mới được nâng cao hơn hẳn so với ba phần trước. Không chỉ là nạn nhân hay ở vào thế bị động, các nhân vật con người trở nên chủ động có mục đích và thực hiện mục đích của họ ngay từ ban đầu một cách rất bài bản. \n"
+              "     Chúc các bạn xem phim vui vẻ!"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="point_evaluation">9.0</string>
+    <string name="date_premiere">27/06</string>
+    <string name="name_vi">Robot Đại chiến 4: Kỷ nguyên hủy diệt</string>
+    <string name="name_en">Transformers 4: Age of Extinction</string>
+    <string name="danh_gia">ĐÁNH GIÁ</string>
+
+
+</resources>
